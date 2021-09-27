@@ -1,8 +1,8 @@
-repository: {user}/nbdev_tutorial
+repository: ahoydave/nbdev_tutorial
 output: web
 topnav_title: nbdev_tutorial
 site_title: nbdev_tutorial
-company_name: {author}
+# company_name: {author}
 description: Following nbdev tutorial
 # Set to false to disable KaTeX math
 use_math: true
